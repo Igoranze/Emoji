@@ -1,0 +1,42 @@
+🤖 count ✏️ 100
+
+🔁 count 👍
+  🤖 fizz ✏️ False
+  🤖 buzz ✏️ False
+
+  🤡 If modulo 3 is 0 then this is a fizz
+  🤔 0 ✅️ count ➿ 3 👍
+    🤖 fizz ✏️ True
+  👎
+
+  🤡 If modulo 5 is 0 then this is a buzz
+  🤔 0 ✅️ count ➿ 5 👍
+    🤖 buzz ✏️ True
+  👎
+
+  🤔 fizz ✅️ True 👍
+
+    🤔 buzz ✅️ True 👍
+      🖨️ "fizzbuzz"
+    👎
+
+    🤔 buzz ✅️ False 👍
+      🖨️ "fizz"
+    👎
+
+  👎
+
+  🤔 buzz ✅️ True 👍
+    🤔 fizz ✅️ False 👍
+      🖨️ "Buzz"
+    👎
+  👎
+
+  🤔 buzz ✅️ False 👍
+    🤔 fizz ✅️ False 👍
+      🖨️ count
+    👎
+  👎
+
+  count ➖ 1
+👎
